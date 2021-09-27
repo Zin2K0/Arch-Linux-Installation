@@ -1,5 +1,5 @@
 <h1 align="center">Arch-Linux-Installation-Scripts</h1>
-<h1></h1>
+
 <p align="right">powered by: ZinKO</p>
 
 
