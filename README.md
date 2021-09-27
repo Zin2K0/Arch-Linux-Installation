@@ -1,7 +1,7 @@
 <h1 align="center">Arch-Linux-Installation-Scripts</h1>
-<p>powered by: ZinKO</p>
+<p align="right">powered by: ZinKO</p>
 
-<hr />
+
 <p>&emsp;&emsp;In this repository you will find packages-scripts for the base install of Arch Linux and the Gnome, KDE and Xfce desktop environments. For Windows Managers still only for DWM. Modify the packages to your requirement, make the script executable with chmod +x scriptname and then run with ./scriptname. Remember that the first part of the Arch Linux install is manual, that is you will have to partition, format and mount the disk yourself. Install the base packages and make sure to inlcude git so that you can clone the repository in chroot.</p>
 <h2>For summary:</h2>
 <ol>
